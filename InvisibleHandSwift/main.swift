@@ -8,5 +8,5 @@
 
 import Foundation
 
-println("Hello, World!")
+simulate()
 
